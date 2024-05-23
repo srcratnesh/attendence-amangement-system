@@ -1,4 +1,4 @@
-﻿# attendence-amangement-system
+﻿# Attendece Management System
 Attendance Management System In PHP With Source Code
 
 Attendance Management System In PHP keep track of how often each student is in class. It makes a record of each student’s attendance based on their presence in class.
